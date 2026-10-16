@@ -1,3 +1,5 @@
+# 16. Nested Lists
+# https://www.hackerrank.com/challenges/nested-list/submissions/code/485386917
 if __name__ == '__main__':
     students = [[input(), float(input())] for i in range(int(input()))]
     
