@@ -1,3 +1,5 @@
+# 5. Print Function
+# https://www.hackerrank.com/challenges/python-print/submissions/code/485374302
 if __name__ == '__main__':
     n = int(input())
     for i in range(1, n + 1):
