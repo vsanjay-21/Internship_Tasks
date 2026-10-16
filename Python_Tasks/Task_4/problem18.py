@@ -1,3 +1,5 @@
+# 18. Lists
+# https://www.hackerrank.com/challenges/python-lists/submissions/code/485387387
 if __name__ == '__main__':
     N = int(input())
     m = []
