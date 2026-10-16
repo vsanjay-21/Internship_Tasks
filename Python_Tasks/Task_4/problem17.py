@@ -1,3 +1,5 @@
+# 17. Finding the Percentage
+# https://www.hackerrank.com/challenges/finding-the-percentage/submissions/code/485387159
 if __name__ == '__main__':
     n = int(input())
     student_marks = {}
