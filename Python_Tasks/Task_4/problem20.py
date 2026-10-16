@@ -1,3 +1,5 @@
+# 20. No Idea!
+# https://www.hackerrank.com/challenges/no-idea/submissions/code/485387956
 if __name__ == "__main__":
     a, b = map (int, input().split())
     
