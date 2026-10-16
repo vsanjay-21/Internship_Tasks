@@ -1,3 +1,5 @@
+# 1. Python If-Else
+# https://www.hackerrank.com/challenges/py-if-else/submissions/code/485352074
 def random(n):
     if n % 2 != 0:
         return "Weird"
