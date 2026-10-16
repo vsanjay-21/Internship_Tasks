@@ -1,3 +1,5 @@
+# 10. Find a String
+# https://www.hackerrank.com/challenges/find-a-string/submissions/code/485384204
 def count_substring(string, sub_string):
     count = 0
     start = 0
