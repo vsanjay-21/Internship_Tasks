@@ -1,3 +1,5 @@
+# 19. Collections.Counter()
+# https://www.hackerrank.com/challenges/collections-counter/submissions/code/485387689
 from collections import Counter
 
 if __name__ == "__main__":
