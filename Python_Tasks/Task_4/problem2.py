@@ -1,4 +1,4 @@
-# Arithmetic Operators
+# 2. Arithmetic Operators
 # https://www.hackerrank.com/challenges/python-arithmetic-operators/submissions/code/485372526
 if __name__ == '__main__':
     a = int(input())
