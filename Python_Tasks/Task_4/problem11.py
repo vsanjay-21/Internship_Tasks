@@ -1,3 +1,5 @@
+# 11. String Validators
+# https://www.hackerrank.com/challenges/string-validators/submissions/code/485385429
 if __name__ == '__main__':
     s = input()
     alnum = False
