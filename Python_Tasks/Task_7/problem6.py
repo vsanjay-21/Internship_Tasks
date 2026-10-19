@@ -1,4 +1,4 @@
-# 5. Pangrams
+# 6. Pangrams
 # https://www.hackerrank.com/challenges/pangrams/submissions/code/485567256
 def pangrams(s):
     letters = set()
